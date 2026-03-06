@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "496af319",
+    "Name": "Juan Garc\u00EDa",
+    "PhoneNumber": "612345678",
+    "Email": "juan@mail.com",
+    "Type": "Cliente",
+    "CreatedAt": "2026-03-04T19:55:20.210153+01:00"
+  },
+  {
+    "Id": "7d2bf48d",
+    "Name": "Mar\u00EDa L\u00F3pez",
+    "PhoneNumber": "698765432",
+    "Email": "maria@bufete.com",
+    "Type": "Abogado",
+    "CreatedAt": "2026-03-04T19:55:37.265473+01:00"
+  },
+  {
+    "Id": "06c82191",
+    "Name": "Pedro Ruiz",
+    "PhoneNumber": "",
+    "Email": "",
+    "Type": "Demandado",
+    "CreatedAt": "2026-03-04T19:55:48.443626+01:00"
+  }
+]
